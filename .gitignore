@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+__pycache__
+*.pnml
+*.xes
+*.csv
+cache
+export
+logs
